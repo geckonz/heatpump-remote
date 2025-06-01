@@ -18,3 +18,13 @@ Current hardware target is aimed at an Arduino Nano or similar. Actual selection
 ## Software
 
 The language target is likely to be C, although Python is also being explored. This will be confirmed very soon along with the Hardware target.
+
+## Useful Links
+
+Assuming the design lands on C/C++ and Arduino, then the following will be useful.
+
+[Arduino IDE](https://www.arduino.cc/en/software/)
+
+[Arduino Nano Matter](https://docs.arduino.cc/hardware/nano-matter/#features)
+
+[Heatpump IR COntrol Library](https://github.com/ToniA/arduino-heatpumpir)
