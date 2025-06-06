@@ -1,7 +1,7 @@
 # Universal Heatpump Controller
-A project to enable remote control of leagacy heatpumps, both a hardware and software project using commonly available hardware.
+A project to enable remote control of legacy heatpumps, both a hardware and software project using commonly available hardware.
 
-This project is open source and as such contributions are welcomed, both to requirements, design and implmentation and testing.
+This project is open source and as such contributions are welcomed, both to requirements, design and implementation and testing.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ The design of the system is described [here](./doc/design/high_level_design.md),
 
 ## Hardware
 
-Current hardware target is aimed at an Arduino Nano or similar. Actual selection will be confirmmed as the design process progresses.
+Current hardware target is aimed at an Arduino Nano or similar. Actual selection will be confirmed as the design process progresses.
 
 ## Software
 
